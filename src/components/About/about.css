@@ -21,13 +21,14 @@ body {
   flex-direction: row;
   gap: 20px;
   align-items: flex-start;
-  width: 74%;
+  width: 90%;
 }
 
 /* Left Content */
 .about-details {
   flex: 1;
   max-width: 600px;
+  padding-top: 75px;
 }
 
 .about-name {
@@ -49,6 +50,8 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+  color: crimson;
+  font-weight: bold;
 }
 
 .contact-info .icon {

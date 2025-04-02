@@ -1,10 +1,8 @@
 import React from "react";
 import "./skills.css";
 import {
-  FaDatabase,
   FaCode,
   FaCloud,
-  FaTools,
   FaServer,
   FaMicrosoft,
 } from "react-icons/fa";

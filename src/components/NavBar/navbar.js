@@ -8,6 +8,10 @@ const Navbar = () => {
     return (
         <nav className="navbar">
 
+            {/* Profile Picture */}
+            <div className="profile-box">
+                <img src={profilePic} alt="Ashwini" className="profile-image" />
+            </div>
 
             {/* Navigation Menu */}
             <div className="desktopMenu">
@@ -16,10 +20,6 @@ const Navbar = () => {
                 <Link activeClass='active' to='education' spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListItem">EDUCATION</Link>
                 <Link activeClass='active' to='skills' spy={true} smooth={true} offset={-10} duration={500} className="desktopMenuListItem">SKILLS</Link>
                 <Link activeClass='active' to='projects' spy={true} smooth={true} offset={-50} duration={500} className="desktopMenuListItem">PROJECTS</Link>
-            </div>
-            {/* Profile Picture */}
-            <div className="profile-box">
-                <img src={profilePic} alt="Ashwini" className="profile-image" />
             </div>
 
             {/* Social Media Icons */}
