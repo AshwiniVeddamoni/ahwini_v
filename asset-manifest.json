@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ahwini_v/static/css/main.52ca2fad.css",
-    "main.js": "/ahwini_v/static/js/main.7ce533c4.js",
-    "static/media/ashwini_veddamoni.png": "/ahwini_v/static/media/ashwini_veddamoni.2ef1cd9a5de79e6a6656.png",
-    "static/media/UBS-logo.jpg": "/ahwini_v/static/media/UBS-logo.8a14859a4fa9ea268f7e.jpg",
-    "static/media/matter_protocal.jpg": "/ahwini_v/static/media/matter_protocal.5cf96b9d287581d14fd7.jpg",
-    "static/media/Legacy.jpg": "/ahwini_v/static/media/Legacy.3e0e1476ec50131af70a.jpg",
-    "static/media/BNY_logo_2024.svg.png": "/ahwini_v/static/media/BNY_logo_2024.svg.897fc80dd656a0ff6d7a.png",
-    "static/media/kubernetes.png": "/ahwini_v/static/media/kubernetes.7cdb846c2eabcda532bb.png",
-    "static/media/react.png": "/ahwini_v/static/media/react.35639ed930462bfcd544.png",
-    "static/media/node.png": "/ahwini_v/static/media/node.007e99f68b718e476aba.png",
-    "static/media/outdoor_adventure.jpg": "/ahwini_v/static/media/outdoor_adventure.3b2efb57c5c8ec4525f4.jpg",
-    "static/media/docker.png": "/ahwini_v/static/media/docker.c1f953a3ead577c05d04.png",
-    "static/media/SAU_seal.png": "/ahwini_v/static/media/SAU_seal.d7168bc2089cc2e4e6e7.png",
-    "static/media/git.png": "/ahwini_v/static/media/git.63b94516b0c8926a967f.png",
-    "static/media/html.png": "/ahwini_v/static/media/html.b2db3a7f6897f0a6e75c.png",
-    "static/media/css.png": "/ahwini_v/static/media/css.4a6549b8c2b4cda8bb88.png",
-    "static/media/oracle.png": "/ahwini_v/static/media/oracle.4901d25e592f0aec9d2c.png",
-    "static/media/javascript.png": "/ahwini_v/static/media/javascript.3dfb665e058d08c99f28.png",
-    "index.html": "/ahwini_v/index.html",
-    "main.52ca2fad.css.map": "/ahwini_v/static/css/main.52ca2fad.css.map",
-    "main.7ce533c4.js.map": "/ahwini_v/static/js/main.7ce533c4.js.map"
+    "main.css": "/ashwini_v/static/css/main.52ca2fad.css",
+    "main.js": "/ashwini_v/static/js/main.30af63a6.js",
+    "static/media/ashwini_veddamoni.png": "/ashwini_v/static/media/ashwini_veddamoni.2ef1cd9a5de79e6a6656.png",
+    "static/media/UBS-logo.jpg": "/ashwini_v/static/media/UBS-logo.8a14859a4fa9ea268f7e.jpg",
+    "static/media/matter_protocal.jpg": "/ashwini_v/static/media/matter_protocal.5cf96b9d287581d14fd7.jpg",
+    "static/media/Legacy.jpg": "/ashwini_v/static/media/Legacy.3e0e1476ec50131af70a.jpg",
+    "static/media/BNY_logo_2024.svg.png": "/ashwini_v/static/media/BNY_logo_2024.svg.897fc80dd656a0ff6d7a.png",
+    "static/media/kubernetes.png": "/ashwini_v/static/media/kubernetes.7cdb846c2eabcda532bb.png",
+    "static/media/react.png": "/ashwini_v/static/media/react.35639ed930462bfcd544.png",
+    "static/media/node.png": "/ashwini_v/static/media/node.007e99f68b718e476aba.png",
+    "static/media/outdoor_adventure.jpg": "/ashwini_v/static/media/outdoor_adventure.3b2efb57c5c8ec4525f4.jpg",
+    "static/media/docker.png": "/ashwini_v/static/media/docker.c1f953a3ead577c05d04.png",
+    "static/media/SAU_seal.png": "/ashwini_v/static/media/SAU_seal.d7168bc2089cc2e4e6e7.png",
+    "static/media/git.png": "/ashwini_v/static/media/git.63b94516b0c8926a967f.png",
+    "static/media/html.png": "/ashwini_v/static/media/html.b2db3a7f6897f0a6e75c.png",
+    "static/media/css.png": "/ashwini_v/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/oracle.png": "/ashwini_v/static/media/oracle.4901d25e592f0aec9d2c.png",
+    "static/media/javascript.png": "/ashwini_v/static/media/javascript.3dfb665e058d08c99f28.png",
+    "index.html": "/ashwini_v/index.html",
+    "main.52ca2fad.css.map": "/ashwini_v/static/css/main.52ca2fad.css.map",
+    "main.30af63a6.js.map": "/ashwini_v/static/js/main.30af63a6.js.map"
   },
   "entrypoints": [
     "static/css/main.52ca2fad.css",
-    "static/js/main.7ce533c4.js"
+    "static/js/main.30af63a6.js"
   ]
 }
